@@ -7,7 +7,7 @@ from selenium.webdriver.firefox.options import Options
 from webdriver_manager.firefox import GeckoDriverManager
 
 # Set the link to your HTML file
-Link = r"C:\Users\princ\OneDrive\Desktop\Project 2\voice.html"
+Link = r"http://127.0.0.1:5500/voice.html"
 
 # Setup Firefox options
 firefox_options = Options()
